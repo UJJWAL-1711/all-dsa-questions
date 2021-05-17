@@ -1,2 +1,3 @@
 https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/
+for all kinds of string input : https://www.geeksforgeeks.org/getline-string-c/
 
